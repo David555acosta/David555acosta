@@ -1,6 +1,10 @@
 # David Acosta
 
-🎓 Informati Student  
+<p align="center">
+  <img src="assets/perfil.png" width="500"/>
+</p>
+
+🎓 Computer Science Student  
 ⚙️ Backend-Oriented  
 🔬 Interested in Systems, Performance & Distributed Computing  
 
@@ -8,9 +12,9 @@
 
 ## 🧪 About
 
-Informatic student focused on building strong foundations in backend engineering and system-level thinking.
+Computer Science student focused on building strong foundations in backend engineering and system-level thinking.
 
-Currently exploring scalable architectures, parallel computing and performance-aware development.
+Currently exploring scalable architectures, parallel computing, and performance-aware development.
 
 ---
 
@@ -26,7 +30,7 @@ Currently exploring scalable architectures, parallel computing and performance-a
 **Systems & Tools**
 - Linux environments
 - Git
-- Cluster / MPI experimentation
+- MPI & cluster computing experimentation
 
 **Future Focus**
 - Cloud infrastructure
