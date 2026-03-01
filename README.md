@@ -4,7 +4,7 @@
   <img src="assets/perfil.png" width="500"/>
 </p>
 
-🎓 Computer Science Student  
+🎓 informatic Student  
 ⚙️ Backend-Oriented  
 🔬 Interested in Systems, Performance & Distributed Computing  
 
@@ -12,7 +12,7 @@
 
 ## 🧪 About
 
-Computer Science student focused on building strong foundations in backend engineering and system-level thinking.
+Informatic student focused on building strong foundations in backend engineering and system-level thinking.
 
 Currently exploring scalable architectures, parallel computing, and performance-aware development.
 
