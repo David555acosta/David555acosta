@@ -1,7 +1,7 @@
 # David Acosta
 
 <p align="center">
-  <img src="assets/perfil.png" width="500"/>
+  <img src="assets/perfil.png" width="600"/>
 </p>
 
 🎓 informatic Student  
