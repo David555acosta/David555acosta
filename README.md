@@ -1,16 +1,38 @@
-## Hi there 👋
+# David Acosta
 
-<!--
-**David555acosta/David555acosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+⚙️ Backend-Oriented  
+🔬 Interested in Systems, Performance & Distributed Computing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 About
+
+Computer Science student focused on building strong foundations in backend engineering and system-level thinking.
+
+Currently exploring scalable architectures, parallel computing and performance-aware development.
+
+---
+
+## ⚙️ Technical Direction
+
+**Languages**
+- C# (.NET)
+- Java (Spring)
+- Python
+- C
+- SQL
+
+**Systems & Tools**
+- Linux environments
+- Git
+- Cluster / MPI experimentation
+
+**Future Focus**
+- Cloud infrastructure
+- Distributed systems
+- Scalable backend architectures
+
+---
+
+> Building solid foundations before building large systems.
