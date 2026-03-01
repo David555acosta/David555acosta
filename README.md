@@ -12,9 +12,9 @@
 
 ## 🧪 About
 
-Apasionado por la ingeniería de backend y la optimización de sistemas.
-Explorando arquitecturas escalables, computación paralela y desarrollo de software con enfoque en rendimiento y calidad.
-Interesado en proyectos que combinen backend, sistemas distribuidos y soluciones eficientes.
+Apasionado por la ingeniería de backend, la optimización y la investigación.
+Explorando arquitecturas escalables y computación paralela.
+Interesado en proyectos que integren backend, sistemas distribuidos y tiempo real 🚀
 
 ---
 
