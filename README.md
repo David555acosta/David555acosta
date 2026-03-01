@@ -12,9 +12,9 @@
 
 ## 🧪 About
 
-Informatic student focused on building strong foundations in backend engineering and system-level thinking.
-
-Currently exploring scalable architectures, parallel computing, and performance-aware development.
+Apasionado por la ingeniería de backend y la optimización de sistemas.
+Explorando arquitecturas escalables, computación paralela y desarrollo de software con enfoque en rendimiento y calidad.
+Interesado en proyectos que combinen backend, sistemas distribuidos y soluciones eficientes.
 
 ---
 
