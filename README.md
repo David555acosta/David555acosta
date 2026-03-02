@@ -5,7 +5,6 @@
 </p>
 
 🎓 informatic Student  
-⚙️ Backend-Oriented  
 🔬 Interested in Systems, Performance & Distributed Computing  
 
 ---
