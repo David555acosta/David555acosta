@@ -31,11 +31,6 @@ Interesado en proyectos que integren backend, sistemas distribuidos y tiempo rea
 - Git
 - MPI & cluster computing experimentation
 
-**Future Focus**
-- Cloud infrastructure
-- Distributed systems
-- Scalable backend architectures
-
 ---
 
 > Building solid foundations before building large systems.
