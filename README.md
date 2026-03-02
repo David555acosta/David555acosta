@@ -16,7 +16,7 @@ Currently exploring scalable architectures, parallel computing and performance-o
 
 Motivated by projects that integrate backend systems, distributed environments and real-time processing.
 
-⚙️ Technical Direction
+
 🧬 Languages
 
 C# (.NET)
@@ -49,4 +49,4 @@ Scalable backend architectures
 
 Parallel and concurrent programming
 
-Cloud infrastructure (future focus)
+Cloud infrastructure
