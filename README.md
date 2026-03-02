@@ -7,14 +7,14 @@
 David Acosta
 
 🎓 Informatic Student
-🔬 Focused on backend engineering, systems performance and distributed computing.
+🔬 Focused on backend engineering and scalable architectures and distributed computing.
 
 🧪 About
 
-Interested in building solid foundations in backend development and system-level engineering.
-Currently exploring scalable architectures, parallel computing and performance-oriented design.
+Interested in high-performance systems, real-time systems, functional and parallel programming
 
-Motivated by projects that integrate backend systems, distributed environments and real-time processing.
+
+Motivated by participating in high-performance projects where large amounts of data are processed and stored. A researcher and passionate about optimization, scalability, and performance testing.
 
 
 🧬 Languages
