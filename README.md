@@ -4,33 +4,49 @@
   <img src="assets/perfil.png" width="670"/>
 </p>
 
-🎓 informatic Student  
-🔬 Interested in Systems, Performance & Distributed Computing  
+David Acosta
 
----
+🎓 Informatic Student
+🔬 Focused on backend engineering, systems performance and distributed computing.
 
-## 🧪 About
+🧪 About
 
-Apasionado por la ingeniería de backend, la optimización y la investigación.
-Explorando arquitecturas escalables y computación paralela.
-Interesado en proyectos que integren backend, sistemas distribuidos y tiempo real 🚀
+Interested in building solid foundations in backend development and system-level engineering.
+Currently exploring scalable architectures, parallel computing and performance-oriented design.
 
----
+Motivated by projects that integrate backend systems, distributed environments and real-time processing.
 
-## ⚙️ Technical Direction
+⚙️ Technical Direction
+🧬 Languages
 
-**Languages**
-- C# (.NET)
-- Java (Spring)
-- Python
-- C
-- SQL
+C# (.NET)
 
-**Systems & Tools**
-- Linux environments
-- Git
-- MPI & cluster computing experimentation
+Java (Spring)
 
----
+Python
 
-> Building solid foundations before building large systems.
+C
+
+SQL
+
+🖥 Systems & Tools
+
+Linux environments
+
+Git
+
+Cluster computing experimentation (MPI)
+
+Relational and non-relational databases
+
+🔎 Areas of Interest
+
+Distributed systems
+
+Performance optimization
+
+Scalable backend architectures
+
+Parallel and concurrent programming
+
+Cloud infrastructure (future focus)
