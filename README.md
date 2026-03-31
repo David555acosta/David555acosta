@@ -11,7 +11,7 @@ David Acosta
 
 🧪 About
 
-Interested in high-performance systems, real-time systems, functional and parallel programming
+Interested in high-performance systems and real-time systems.
 
 
 Motivated by participating in high-performance projects where large amounts of data are processed and stored. A researcher and passionate about optimization, scalability, and performance testing.
