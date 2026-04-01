@@ -49,6 +49,4 @@ Performance optimization
 
 Scalable backend architectures
 
-Parallel and concurrent programming
-
 Cloud infrastructure
