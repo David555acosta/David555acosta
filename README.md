@@ -1,8 +1,5 @@
 # David Acosta
 
-<p align="center">
-  <img src="assets/perfil.png" width="670"/>
-</p>
 
 David Acosta
 
