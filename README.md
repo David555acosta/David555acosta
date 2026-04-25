@@ -27,10 +27,6 @@ SQL
 
 Linux environments
 
-Git
-
-Cluster computing experimentation (MPI)
-
 Relational and non-relational databases
 
 automated tests
