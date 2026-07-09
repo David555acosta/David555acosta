@@ -1,42 +1,40 @@
 # David Acosta
 
+💻 **Backend Developer | Computer Science Student**
 
-David Acosta
+Focused on backend development, distributed systems, and scalable software architecture. Passionate about building reliable, efficient, and maintainable systems with a strong interest in performance, concurrency, and low-level computing.
 
-🎓 Informatic Student
- Focused on backend engineering and scalable architectures and distributed computing.
+## About
 
- About:
+Computer Science student with a strong interest in backend engineering and system design. I enjoy understanding how software works beneath the surface, from memory management and concurrent execution to distributed architectures and operating system concepts.
 
-Interested in high-performance systems , real-time systemsand performance testing.
+Currently expanding my knowledge in high-performance applications, scalable services, and modern backend technologies while continuously improving my software engineering skills.
 
+## Technologies
 
-Languages :
+**Languages**
 
-C# (.NET)
+* Java (Spring Boot)
+* C#
+* Python
+* C
+* SQL
 
-Java (Spring)
+**Systems & Tools**
 
-Python
+* Linux
+* Git & GitHub
+* Docker
+* Relational and NoSQL Databases
+* Automated Testing
 
-C
+## Areas of Interest
 
-SQL
+* Distributed Systems
+* Concurrent Programming
+* Performance Optimization
+* Scalable Backend Architectures
+* Cloud Infrastructure
+* Operating Systems
+* Low-Level Programming
 
-Systems & Tools:
-
-Linux environments
-
-Relational and non-relational databases
-
-automated tests
-
-Areas of Interest:
-
-Distributed systems
-
-Performance optimization
-
-Scalable backend architectures
-
-Cloud infrastructure
