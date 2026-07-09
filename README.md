@@ -6,9 +6,10 @@ Focused on backend development, distributed systems, and scalable software archi
 
 ## About
 
-Computer Science student with a strong interest in backend engineering and system design. I enjoy understanding how software works beneath the surface, from memory management and concurrent execution to distributed architectures and operating system concepts.
 
-Currently expanding my knowledge in high-performance applications, scalable services, and modern backend technologies while continuously improving my software engineering skills.
+
+Estudiante de la Licenciatura en Informática, apasionado por los algoritmos, los sistemas de bajo nivel y el desarrollo de software de alto rendimiento. Me interesa comprender cómo funcionan los sistemas internamente y aplicar ese conocimiento para diseñar soluciones eficientes, optimizar el rendimiento y construir arquitecturas backend escalables y mantenibles.
+
 
 ## Technologies
 
