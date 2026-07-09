@@ -2,7 +2,6 @@
 
 💻 **Backend Developer | Computer Science Student**
 
-Focused on backend development, distributed systems, and scalable software architecture. Passionate about building reliable, efficient, and maintainable systems with a strong interest in performance, concurrency, and low-level computing.
 
 ## About
 
