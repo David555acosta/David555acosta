@@ -4,14 +4,14 @@
 David Acosta
 
 🎓 Informatic Student
-🔬 Focused on backend engineering and scalable architectures and distributed computing.
+ Focused on backend engineering and scalable architectures and distributed computing.
 
-🧪 About
+ About:
 
 Interested in high-performance systems , real-time systemsand performance testing.
 
 
-🧬 Languages
+Languages :
 
 C# (.NET)
 
@@ -23,7 +23,7 @@ C
 
 SQL
 
-🖥 Systems & Tools
+Systems & Tools:
 
 Linux environments
 
@@ -31,7 +31,7 @@ Relational and non-relational databases
 
 automated tests
 
-🔎 Areas of Interest
+Areas of Interest:
 
 Distributed systems
 
